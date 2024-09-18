@@ -7,7 +7,7 @@ estimated to save $30MM in development costs over the next 3 years. I've also co
 
 In my free time you can find me swimming 🏊🏽‍♂️, running 🏃🏽‍♂️, trying new restaurants 🍽️, and travelling 🌏! 
 
-## Feel free to reach out!
+## Feel free to reach out, I'd love to chat 🙂
 [![LinkedIn](https://img.icons8.com/color/48/000000/linkedin.png)](https://www.linkedin.com/in/dravin-nagalingam/)
 [![Email](https://img.icons8.com/color/48/000000/gmail-new.png)](mailto:dravin.nagalingam@gmail.com)
 
