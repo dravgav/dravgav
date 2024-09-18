@@ -1,4 +1,16 @@
-## Hi there 👋
+## Hey I'm Dravin 👋
+
+I am in my final year pursuing a degree in Computer Science and Statistics at the University of Toronto!
+
+Currently I am a Software Developer intern at RBC, where I am spearheading the development of an analytics tool measuring team productivity and growth, 
+estimated to save $30MM in development costs over the next 3 years. I've also completed internships past RBC as a Software Developer on the ClientSource team.
+
+In my free time you can find me swimming 🏊🏽‍♂️, running 🏃🏽‍♂️, trying new restaurants 🍽️, and travelling 🌏! 
+
+## Feel free to reach out!
+[![LinkedIn](https://img.icons8.com/color/48/000000/linkedin.png)](https://www.linkedin.com/in/dravin-nagalingam/)
+[![Email](https://img.icons8.com/color/48/000000/gmail-new.png)](mailto:dravin.nagalingam@gmail.com)
+
 
 <!--
 **dravgav/dravgav** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
