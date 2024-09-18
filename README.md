@@ -5,7 +5,7 @@ I am in my final year pursuing a degree in Computer Science and Statistics at th
 Currently I am a Software Developer intern at RBC, where I am spearheading the development of an analytics tool measuring team productivity and growth, 
 estimated to save $30MM in development costs over the next 3 years. I've also completed past internships at RBC as a Software Developer on the ClientSource team.
 
-In my free time you can find me swimming 🏊🏽‍♂️, running 🏃🏽‍♂️, trying new restaurants 🍽️, and travelling 🌏! 
+In my free time you can find me swimming 🏊🏽‍♂️, running 🏃🏽‍♂️, listening to house music 🎧, trying new restaurants 🍽️, and travelling 🌏! 
 
 ## Feel free to reach out, I'd love to chat 🙂
 [![LinkedIn](https://img.icons8.com/color/48/000000/linkedin.png)](https://www.linkedin.com/in/dravin-nagalingam/)
